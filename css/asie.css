@@ -26,11 +26,14 @@ header img{
 main{
     max-width: 800 px;
     margin: 0 auto;
-    padding: 20px 20px;
+    padding: 50px 10px;
+    
 }
 
 main img{
     max-width: 100%;
+    width: 500px;
+    padding-top: 20px;
 }
 
 h2{
@@ -39,6 +42,13 @@ h2{
 
 p{
     font-size: 20px;
+}
+
+h3{
+    font-family: georgia;
+    color: white;
+    background-color: #F7634F;
+    font-size: 25px; 
 }
 
 a{
